@@ -12,7 +12,7 @@ The Fitness App is a mobile application built using React Native that allows use
 
 ## Workout List
 Here are some examples of workouts that can be tracked in the app:
-Fullbody
-ABS Beginner Training
-ARM Beginner Training
-Chest Beginner Training
+- **Fullbody
+- **ABS Beginner Training
+- **ARM Beginner Training
+- **Chest Beginner Training
