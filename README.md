@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Fitness App is a mobile application built using React Native that allows users to track their fitness activities, set goals, and monitor their progress over time. The app provides a user-friendly interface to record workouts, log meals, and track various health metrics.
+The Fitness App is a mobile application built using React Native that allows users to track their fitness activities,and monitor their progress over time. The app provides a user-friendly interface to record workouts, and track various health metrics.
 
 ## Features
 
